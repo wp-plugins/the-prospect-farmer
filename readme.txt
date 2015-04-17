@@ -1,4 +1,4 @@
-=== Shortcoder ===
+=== The Prospect Farmer ===
 Contributors: theprospectfarmer
 Author URI: http://www.theprospectfarmer.com/
 Plugin URI: http://www.theprospectfarmer.com/wordpress/
